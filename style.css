@@ -134,10 +134,6 @@ header {
   font-size: 20px;
 }
 
-.musicas ul li {
-  list-style-type: "🎵";
-  padding-left: 20px;
-}
 .cultura ul {
   list-style-type: "🎬";
   padding-left: 20px;
