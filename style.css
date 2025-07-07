@@ -134,7 +134,7 @@ header {
   font-size: 20px;
 }
 
-.musicas ul {
+.musicas ul li {
   list-style-type: "🎵";
   padding-left: 20px;
 }
